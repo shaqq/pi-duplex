@@ -9,6 +9,8 @@ pi-duplex gives [Pi](https://pi.dev) two cooperating agents:
 You keep using Pi normally. While the reasoner works, the foreground can answer
 a side question, update the active task, queue later work, or stop the task.
 
+https://github.com/user-attachments/assets/09c9d811-e9d7-4caf-afa1-027d5a295ff3
+
 ## Install
 
 Requires Pi 0.84.3 or newer.
